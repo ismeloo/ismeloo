@@ -1,6 +1,6 @@
 ### Oi 👋
 
-- 😄 Pronouns:ela/dela
+- 😄 Pronomes:ela/dela
 <div align="center">
   <a href="https://github.com/ismeloo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismeloo&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
